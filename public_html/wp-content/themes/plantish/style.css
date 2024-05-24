@@ -482,6 +482,7 @@ input[type="submit"],
 .woocommerce-form.woocommerce-form-login.login .button{
     padding: 9px 23px 8px;
     line-height: 20px;
+    height: 40px;
 }
 #customer_login h2 {
 	font-size: 20px;
